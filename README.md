@@ -2,7 +2,7 @@
 
 -I recently graduated from Actualize with a Certificate in Full Stack Development where I strengthened my skills as a programmer and built up my ability to self teach. Essential to the competition of my capstone project success was implementing a scraping tool, implemented with independently acquired knowledge.
 
--Prior to attending a coding bootcamp, I spent three years in the beverage industry, rising quickly from an entry level position to becoming a supervisor and bartender. My desire to challenge myself and my ability to pick up information quickly allowed me to take on a number of essential responsibilities in multiple departments. I was selected to clean and maintain all of the draft lines at two different brewpubs and transitioned to work in the warehouse as a beer delivery driver when Covid-19 shut down front of house operations.
+-Prior to attending a coding bootcamp, I spent four years in the beverage industry, rising quickly from an entry level position to becoming a supervisor and bartender. My desire to challenge myself and my ability to pick up information quickly allowed me to take on a number of essential responsibilities in multiple departments. I was selected to clean and maintain all of the draft lines at two different brewpubs and transitioned to work in the warehouse as a beer delivery driver when Covid-19 shut down front of house operations.
 
 -Prior to working in the beverage industry I worked for the County of Sonoma. As an Eligibility Worker I was nominated for and selected to join multiple specialized task groups in order to clear difficult assignments from the department’s backlog. My selection to these task groups was based on my ability to efficiently and precisely manage sensitive data across multiple systems.
 
