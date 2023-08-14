@@ -1,4 +1,4 @@
--I'm Daniel Bossier and what I enjoy most about software development is the opportunity to immerse myself in an ever-evolving and innovative industry where I can constantly add new technical skills to my toolbelt.
+-I'm Daniel Bossier and what I enjoy most about software development is the opportunity to immerse myself in an ever-evolving and innovating industry where I can constantly add new technical skills to my toolbelt.
 
 -I recently graduated from Actualize with a Certificate in Full Stack Development where I strengthened my skills as a programmer and built up my ability to self teach. Essential to the competition of my capstone project success was implementing a scraping tool, implemented with independently acquired knowledge.
 
